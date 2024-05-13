@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_novo"
+        android:title="@string/novo_jogo" />
+    <item
+        android:id="@+id/menu_placar"
+        android:title="@string/placar" />
+
+    <item
+        android:id="@+id/menu_zerar"
+        android:title="@string/reiniciar" />
+
+    <item
+        android:id="@+id/menu_encerrar"
+        android:title="@string/fechar"
+        />
+</menu>

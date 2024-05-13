@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Renato_JokenpoComHistorico</string>
+    <string name="titleAPP">Jokenpô</string>
+    <string name="selecione_uma_opcao">Selecione uma opção</string>
+    <string name="escolha_android">O Android escolheu:</string>
+    <string name="voce_perdeu">Você perdeu!</string>
+    <string name="voce_ganhou">Você ganhou!</string>
+    <string name="erro_no_sistema">Erro no sistema!</string>
+    <string name="opcao_invalida">"Opção inválida: "</string>
+    <string name="voce_empatou">Você empatou!</string>
+    <string name="placar_atual">Placar Atual</string>
+    <string name="andoid">Andoid: </string>
+    <string name="usuario">Jogador: </string>
+    <string name="novo_jogo">Novo jogo</string>
+    <string name="placar">Placar</string>
+    <string name="fechar">Fechar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="jogar">Jogar</string>
+    <string name="Jogador">Digite seu nome</string>
+    <string name="digite_seu_nome">Digite seu nome!</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores padrão do Material Design -->
+    <color name="colorPrimary">#2196F3</color> <!-- Azul primário -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Azul primário escuro -->
+    <color name="colorAccent">#FF4081</color> <!-- Rosa acentuado -->
+
+    <!-- Cores básicas -->
+    <color name="white">#FFFFFF</color> <!-- Branco -->
+    <color name="black">#000000</color> <!-- Preto -->
+    <color name="transparent">#00000000</color> <!-- Transparente -->
+
+    <!-- Cores de texto -->
+    <color name="textPrimary">#212121</color> <!-- Texto primário (preto) -->
+    <color name="textSecondary">#757575</color> <!-- Texto secundário (cinza) -->
+    <color name="textHint">#BDBDBD</color> <!-- Texto de dica (cinza claro) -->
+
+    <!-- Cores de fundo -->
+    <color name="background">#F5F5F5</color> <!-- Fundo padrão (cinza claro) -->
+    <color name="backgroundDark">#E0E0E0</color> <!-- Fundo escuro (cinza) -->
+
+    <!-- Outras cores comuns -->
+    <color name="red">#FF0000</color> <!-- Vermelho -->
+    <color name="green">#00FF00</color> <!-- Verde -->
+    <color name="blue">#0000FF</color> <!-- Azul -->
+    <color name="yellow">#FFFF00</color> <!-- Amarelo -->
+    <color name="orange">#FFA500</color> <!-- Laranja -->
+
+
+</resources>

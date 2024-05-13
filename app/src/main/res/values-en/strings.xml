@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JokenpoComHistorico</string>
+    <string name="titleAPP">Jokenpô</string>
+    <string name="selecione_uma_opcao">Select an option</string>
+    <string name="escolha_android">The Android has chosen:</string>
+    <string name="voce_perdeu">You lost!</string>
+    <string name="voce_ganhou">You won!</string>
+    <string name="erro_no_sistema">System error!</string>
+    <string name="opcao_invalida">“Invalid option: ”</string>
+    <string name="voce_empatou">You tied!</string>
+    <string name="placar_atual">Current score</string>
+    <string name="andoid">Andoid: </string>
+    <string name="usuario">player: </string>
+    <string name="novo_jogo">New Game</string>
+    <string name="placar">Score</string>
+    <string name="fechar">Close</string>
+    <string name="reiniciar">Restart</string>
+    <string name="jogar">Playing</string>
+    <string name="Jogador">Enter your name</string>
+</resources>
